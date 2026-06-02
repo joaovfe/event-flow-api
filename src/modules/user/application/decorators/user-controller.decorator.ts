@@ -9,6 +9,10 @@ class Controller extends ControllerDecorator {
     return this.applyProperties(this.login());
   }
 
+  public public() {
+    return this.applyPropertiesWithSuffix('public');
+  }
+
   public withoutLogin() {
     return this.applyProperties();
   }
