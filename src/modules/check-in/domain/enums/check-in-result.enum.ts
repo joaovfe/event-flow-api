@@ -1,0 +1,5 @@
+export enum ECheckInResult {
+  SUCCESS = 'SUCCESS',
+  ALREADY_USED = 'ALREADY_USED',
+  CANCELLED = 'CANCELLED',
+}

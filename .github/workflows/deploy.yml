@@ -1,0 +1,43 @@
+name: Deploy Backend
+
+on:
+  push:
+    branches:
+      - main
+  workflow_dispatch:
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    environment: production
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v3
+
+      - name: Build e rodar container da API
+        run: |
+          cd $GITHUB_WORKSPACE
+          docker compose -f docker-compose.yml build app
+          docker compose -f docker-compose.yml up -d
+        env:
+          API_AUTH_TOKEN: ${{ secrets.API_AUTH_TOKEN }}
+          API_CLIENT_URL: ${{ secrets.API_CLIENT_URL }}
+          API_DOC_PASS: ${{ secrets.API_DOC_PASS }}
+          API_PORT: ${{ secrets.API_PORT }}
+          API_URL: ${{ secrets.API_URL }}
+          DATABASE_HOST: ${{ secrets.DATABASE_HOST }}
+          DATABASE_NAME: ${{ secrets.DATABASE_NAME }}
+          DATABASE_PASS: ${{ secrets.DATABASE_PASS }}
+          DATABASE_PORT: ${{ secrets.DATABASE_PORT }}
+          DATABASE_USER: ${{ secrets.DATABASE_USER }}
+          MINIO_ACCESS_KEY: ${{ secrets.MINIO_ACCESS_KEY }}
+          MINIO_BASE_URL: ${{ secrets.MINIO_BASE_URL }}
+          MINIO_BUCKET: ${{ secrets.MINIO_BUCKET }}
+          MINIO_ENDPOINT: ${{ secrets.MINIO_ENDPOINT }}
+          MINIO_PORT: ${{ secrets.MINIO_PORT }}
+          MINIO_SECRET_KEY: ${{ secrets.MINIO_SECRET_KEY }}
+          MINIO_ROOT_USER: ${{ secrets.MINIO_ROOT_USER }}
+          MINIO_ROOT_PASSWORD: ${{ secrets.MINIO_ROOT_PASSWORD }}
+          MINIO_USE_SSL: ${{ secrets.MINIO_USE_SSL }}
+          NODE_ENV: ${{ secrets.NODE_ENV }}

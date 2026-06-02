@@ -1,0 +1,2102 @@
+{
+  "/home/joao/projects/EventFlow/event-flow-frontend/vite.config.ts": {
+    "mtime": 1780415540.0835211,
+    "hash": "159a8f2740626d0c35c56216f9fe63de"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/vite.config.d.ts": {
+    "mtime": 1780415540.0735211,
+    "hash": "9fcf75521f4c43fd8b75300e0f63b867"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/app.tsx": {
+    "mtime": 1780435411.822174,
+    "hash": "9f673195b6da6553fa5af74b94babb0e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/main.tsx": {
+    "mtime": 1780416446.9918556,
+    "hash": "90c0e33351b96e536e0699708750ae6d"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/vite-env.d.ts": {
+    "mtime": 1780416447.0018556,
+    "hash": "8f68c27c3fc38817b2726b20e2d4f1ee"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/home/pages/public-home.tsx": {
+    "mtime": 1780435445.2012973,
+    "hash": "6e7569e75d512a91be6babfa1cd831f6"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/home/pages/dashboard.tsx": {
+    "mtime": 1780435571.58837,
+    "hash": "fcd4e927c9c79c83ab829b83c344494b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/home/components/index.ts": {
+    "mtime": 1780435431.7973135,
+    "hash": "ed26b9642f65441a12b510205f6702a9"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/home/components/event-card.tsx": {
+    "mtime": 1780435428.257331,
+    "hash": "4503a944cb02af786cd55d0b361420ea"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/home/components/login-or-profile-button.tsx": {
+    "mtime": 1780416449.0527375,
+    "hash": "f3670ad07770fcd6d3d7d8ed5d8e7b47"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/home/components/public-topbar.tsx": {
+    "mtime": 1780435456.3102767,
+    "hash": "6eceab3d2d90549968243d806b139ea0"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/pages/index.tsx": {
+    "mtime": 1780416450.0727186,
+    "hash": "d10dacfbac356138b5eb0fc718467571"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/pages/list/user-list.tsx": {
+    "mtime": 1780416450.1127179,
+    "hash": "679278a186428bc0b3a600e96b7323d6"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/pages/list/components/users-list-filters.tsx": {
+    "mtime": 1780416450.1427174,
+    "hash": "8dac12039396feefde70e22c272f613f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/pages/list/components/index.tsx": {
+    "mtime": 1780416450.1227179,
+    "hash": "b54cfe85fc694c16f06df6d5eed5e10b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/pages/list/components/users-list-table.tsx": {
+    "mtime": 1780416450.162717,
+    "hash": "5b9063d9c7e428788f98c1d83cbc5b87"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/pages/create/user-create.tsx": {
+    "mtime": 1780416450.102718,
+    "hash": "b8b2f03d8079a549fdaec1bfc51f2aa3"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/pages/update/user-update.tsx": {
+    "mtime": 1780416450.1727169,
+    "hash": "d02f8efd774574000ebeb8a4359e8489"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/contexts/user-list.context.tsx": {
+    "mtime": 1780416449.9327211,
+    "hash": "572d09022a43c45c371e152904de5219"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/contexts/index.ts": {
+    "mtime": 1780416449.9127216,
+    "hash": "f8517e0baeb8a32af9fd22402152063a"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/components/index.tsx": {
+    "mtime": 1780416449.892722,
+    "hash": "ae502f21ab4b3b974148eb9a907c1ffb"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/components/user-form.tsx": {
+    "mtime": 1780416449.902722,
+    "hash": "2c820880002efd9566cf61b4fa75dea5"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/repositories/index.ts": {
+    "mtime": 1780416450.1927164,
+    "hash": "5c934341af6c4941d271df9f9dea4ead"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/repositories/user.repository.ts": {
+    "mtime": 1780416450.2027164,
+    "hash": "d544ed4ad31e93b84b072a38bb2673d7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/domain/index.tsx": {
+    "mtime": 1780416449.9327211,
+    "hash": "313405de7e28714ccb894b5d986127ea"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/domain/entities/index.ts": {
+    "mtime": 1780416450.0127199,
+    "hash": "4edeba1e93ddb5ee57fb33b9ce454a72"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/domain/entities/user.entity.ts": {
+    "mtime": 1780416450.0227196,
+    "hash": "f14c8d4c8f22217380ecd67bba6e4eb6"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/domain/schemas/index.ts": {
+    "mtime": 1780416450.0427191,
+    "hash": "d22e3220b0670c485907ff0b86f4489c"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/domain/schemas/user-update.schema.ts": {
+    "mtime": 1780416450.0627189,
+    "hash": "24e15c531250222373662c96944517ae"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/domain/schemas/user-create.schema.ts": {
+    "mtime": 1780416450.052719,
+    "hash": "779fb0347655654401bcafa3904720da"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/domain/dtos/user-list.dto.ts": {
+    "mtime": 1780416449.9727206,
+    "hash": "6e8a546014f0440ffcc4ace41b7cc16f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/domain/dtos/user-create.dto.ts": {
+    "mtime": 1780416449.9627206,
+    "hash": "8648f3743b6978f07101fbf79da2b046"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/domain/dtos/index.ts": {
+    "mtime": 1780416449.9527209,
+    "hash": "5f0b0b8771c8c33c824aef648431ecc9"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/domain/dtos/user-update.dto.ts": {
+    "mtime": 1780416449.9927201,
+    "hash": "c280b8c30d48e8c8e9c33844067d5f43"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/user/domain/dtos/user-register.dto.ts": {
+    "mtime": 1780416449.9827204,
+    "hash": "e6e2c55d4c419a415c2be4dac443b3d1"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/checkin/pages/index.ts": {
+    "mtime": 1780435383.837232,
+    "hash": "b622dc20e9ca988e981f5cd526e0d456"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/checkin/pages/check-in.tsx": {
+    "mtime": 1780435678.5022662,
+    "hash": "783e1259ddd5c9bac040855704e7f5a7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/checkin/repositories/index.ts": {
+    "mtime": 1780435405.2310624,
+    "hash": "c3d13f55c0518bfa87845afb8ca50cda"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/checkin/repositories/check-in.repository.ts": {
+    "mtime": 1780435360.0393536,
+    "hash": "caacf0185fee4b8a728607facea684b6"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/checkin/domain/index.ts": {
+    "mtime": 1780435354.6263387,
+    "hash": "64a0ea265e1888ff2ef00ce208381d8b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/cart/pages/order-success.tsx": {
+    "mtime": 1780435553.53241,
+    "hash": "756e0eb980f2e2671a1e1451fcc7caeb"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/cart/pages/index.ts": {
+    "mtime": 1780435556.9923928,
+    "hash": "8da52bc76de5aaa34d81e3254607a939"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/cart/pages/cart.tsx": {
+    "mtime": 1780435520.845483,
+    "hash": "79d296d2384de7f6ec6e6b3d8e0b73e4"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/cart/pages/checkout.tsx": {
+    "mtime": 1780436613.6352253,
+    "hash": "30fbc2dc91d824df1e50b3454ff1c174"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/cart/contexts/cart.context.tsx": {
+    "mtime": 1780436608.4096527,
+    "hash": "b1690510e8d1bd1e81daeeaeee08a6f0"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/cart/contexts/index.ts": {
+    "mtime": 1780435404.6923463,
+    "hash": "97f619df1970f960880039e97dee204c"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/cart/domain/index.ts": {
+    "mtime": 1780435390.2283974,
+    "hash": "f925838cbab7bc348e0ed59f925b71f1"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/cart/domain/cart-item.ts": {
+    "mtime": 1780435387.3972144,
+    "hash": "799587aeac422ae60b3a1ae0a11037de"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/pages/index.tsx": {
+    "mtime": 1780416490.4418757,
+    "hash": "c2eea52d23f3f08f82708a42ec232f04"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/pages/register.tsx": {
+    "mtime": 1780416490.471875,
+    "hash": "909a7ab6e7ac2937b6c965863ff4c2c3"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/pages/login.tsx": {
+    "mtime": 1780416490.4518754,
+    "hash": "9c5aba92d3357969ed52e1cece27ef3f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/pages/recover.tsx": {
+    "mtime": 1780416490.4618752,
+    "hash": "2cca042d9e9a54ab99c02a19b38180e8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/pages/reset.tsx": {
+    "mtime": 1780416490.4918747,
+    "hash": "de9d8bf5736d6e4b703bf25f25a8026a"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/pages/components/login/login-form.tsx": {
+    "mtime": 1780416490.5118742,
+    "hash": "0f13acfd9b048bad4f2f3637bbb9d58c"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/pages/components/register/register-form.tsx": {
+    "mtime": 1780416490.531874,
+    "hash": "cd781c9ce09ab243cd5d37946e6f2db0"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/contexts/index.tsx": {
+    "mtime": 1780416447.6718433,
+    "hash": "599b8b2e3472cbdd10976c89426c4b22"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/contexts/auth-modal.context.tsx": {
+    "mtime": 1780416447.6418438,
+    "hash": "2c4fe43a904689389253ca7a2f72bccc"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/contexts/auth.context.tsx": {
+    "mtime": 1780416447.6618435,
+    "hash": "36812c4a1a48a9f6d2a70724a4b33781"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/components/index.ts": {
+    "mtime": 1780416447.621844,
+    "hash": "a39ff8f1ca95d28ec35550095b20a16b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/components/auth-modal.tsx": {
+    "mtime": 1780416447.6118443,
+    "hash": "682c8194f877b82c16f2b23e015e28fc"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/repositories/auth.repository.ts": {
+    "mtime": 1780416490.5518737,
+    "hash": "44aab0b85f5507c06d2f70423bd207c0"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/repositories/index.ts": {
+    "mtime": 1780416490.5618734,
+    "hash": "cbc42e4a381094893440e186affbdcfb"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/hooks/index.ts": {
+    "mtime": 1780416490.4318757,
+    "hash": "c2ed7148f5f0036b2baf32b46e5b5b71"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/hooks/auth.hook.ts": {
+    "mtime": 1780416490.421876,
+    "hash": "26b4999268f373ff797c1575b5dc1b3f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/domain/index.ts": {
+    "mtime": 1780416447.6918428,
+    "hash": "084544fcb1788b8f0013d51aeda44599"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/domain/dto/login-request.dto.ts": {
+    "mtime": 1780416447.7118425,
+    "hash": "3eae9170ffedc546539b9521a20125c7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/domain/dto/index.ts": {
+    "mtime": 1780416447.7018428,
+    "hash": "04d07879b9cc9b69e82adbe4d6a4f3e9"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/domain/dto/recover-request.dto.ts": {
+    "mtime": 1780416447.731842,
+    "hash": "90f74e67dd5efe97560806927458e7e9"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/domain/dto/reset-request.dto.ts": {
+    "mtime": 1780416447.741842,
+    "hash": "de252e03b7c484d112b7313cd6634ef5"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/domain/dto/login-response.dto.ts": {
+    "mtime": 1780416447.7218423,
+    "hash": "2883fa340d0f3a6003400e36f6473689"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/domain/enums/index.ts": {
+    "mtime": 1780416447.7718415,
+    "hash": "224422c40fafd85bcc4789f092f2fec8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/domain/enums/auth-action.enum.ts": {
+    "mtime": 1780416447.7618415,
+    "hash": "5ac187ef3b243af867be031a555162cd"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/domain/schemas/register.schema.ts": {
+    "mtime": 1780416490.3918765,
+    "hash": "daa8c128ad73a127aaed3c61e8275589"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/domain/schemas/recover.schema.ts": {
+    "mtime": 1780416490.3818767,
+    "hash": "d8d038670ec8978d9b7ef335d348bdc7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/domain/schemas/index.ts": {
+    "mtime": 1780416447.8318403,
+    "hash": "3d4c552d29fbf05fe6d33950947a7def"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/domain/schemas/login.schema.ts": {
+    "mtime": 1780416447.84184,
+    "hash": "4a0e56c9719c0fd5d7b61995b656ceb7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/domain/schemas/reset.schema.ts": {
+    "mtime": 1780416490.4018764,
+    "hash": "bb191b572297bbd95f34b44626e1031f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/domain/interfaces/index.ts": {
+    "mtime": 1780416447.8018408,
+    "hash": "96b6233b2789abfd6140f63cfb9e1554"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/domain/interfaces/auth-action.interface.ts": {
+    "mtime": 1780416447.7818413,
+    "hash": "14c681fdb3d4ccbd2fc109e04ac8a70c"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/domain/interfaces/use-auth.interface.ts": {
+    "mtime": 1780416447.8118408,
+    "hash": "dbecc7c3d4d7f43f907aa567b187a820"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/auth/domain/interfaces/auth.interface.ts": {
+    "mtime": 1780416447.791841,
+    "hash": "5c6c62558e30642806a821be7054f124"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/pages/index.ts": {
+    "mtime": 1780435505.5665848,
+    "hash": "8e72c442e3cc997916d5b68154265efe"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/pages/list/events-list.tsx": {
+    "mtime": 1780435161.4940023,
+    "hash": "06b6361fb59b280bee6b9ae5cc895975"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/pages/list/components/events-list-table.tsx": {
+    "mtime": 1780435156.443604,
+    "hash": "5305c579303cd876937e46bd6122d317"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/pages/list/components/events-list-filters.tsx": {
+    "mtime": 1780435142.15428,
+    "hash": "a97e2baaa056e7cd55693c52d8e5d99f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/pages/public/event-details.tsx": {
+    "mtime": 1780435500.303415,
+    "hash": "71349bde634523c73fe05e3e938be3f1"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/pages/create/event-create.tsx": {
+    "mtime": 1780435171.3270314,
+    "hash": "5cd57ed139b8ebf4827ecdf7fd80bd28"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/pages/update/event-update.tsx": {
+    "mtime": 1780435232.9182272,
+    "hash": "8a6d478eca2abdef38f64abeba76823a"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/contexts/event-list.context.tsx": {
+    "mtime": 1780435110.6600935,
+    "hash": "7f976ef7d480f56a5138765c58b03ce6"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/contexts/index.ts": {
+    "mtime": 1780435113.0472236,
+    "hash": "8bba84a908879c4377b536282feaa9f3"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/components/event-form.tsx": {
+    "mtime": 1780435133.7664287,
+    "hash": "017c10e646f53f9ca0627f86e082ecba"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/components/ticket-types/ticket-type-form-dialog.tsx": {
+    "mtime": 1780435187.9815378,
+    "hash": "9b1e9bc114249b5cf7553b5a38caabcf"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/components/ticket-types/ticket-types-section.tsx": {
+    "mtime": 1780435250.739966,
+    "hash": "5a1ce2e798ee959c54695466ee0c77fa"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/repositories/index.ts": {
+    "mtime": 1780435103.177056,
+    "hash": "3b7dd3bf671418197077af3a96a4ab0b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/repositories/event.repository.ts": {
+    "mtime": 1780435091.4962773,
+    "hash": "0d23f0165353330f405dfd276f024dbd"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/repositories/ticket-type.repository.ts": {
+    "mtime": 1780435100.7117262,
+    "hash": "ce9c83b04163af21f8c660c8084ac4f3"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/domain/index.ts": {
+    "mtime": 1780435071.474175,
+    "hash": "58c84774625799431d9412086f327984"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/domain/entities/event.entity.ts": {
+    "mtime": 1780435032.8227818,
+    "hash": "146fe72fe3299d8654895868d74a196b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/domain/entities/index.ts": {
+    "mtime": 1780435039.322672,
+    "hash": "0d0fec15b3d6ed6ad466a46679176b0f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/domain/entities/ticket-type.entity.ts": {
+    "mtime": 1780435036.9527612,
+    "hash": "3dd3f3de7ae2435f99922c39a37fd2e2"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/domain/schemas/index.ts": {
+    "mtime": 1780435068.6641889,
+    "hash": "f49a814e77536fc2b05735c19524b7d7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/domain/schemas/event.schema.ts": {
+    "mtime": 1780435060.042943,
+    "hash": "ab5863020499dc833c5ce059a672a295"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/domain/schemas/ticket-type.schema.ts": {
+    "mtime": 1780435065.2398057,
+    "hash": "10857c066d3478d285281438f4b21cbc"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/domain/dtos/ticket-type.dto.ts": {
+    "mtime": 1780435050.4279299,
+    "hash": "de3ec0d9c7f75a449bd57f5f65437e09"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/domain/dtos/index.ts": {
+    "mtime": 1780435052.8894384,
+    "hash": "aee9979d49e1e8f97315cdd24d15e402"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/domain/dtos/event-create.dto.ts": {
+    "mtime": 1780435046.8987346,
+    "hash": "5b12bcf64cee20800b77be02f36139cc"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/events/domain/dtos/event-list.dto.ts": {
+    "mtime": 1780435043.4387515,
+    "hash": "f8dc3366c15bd3a2383a94f74cb326f8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/pages/index.ts": {
+    "mtime": 1780416449.732725,
+    "hash": "b82a0928a888ab945e09bc98992dac5b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/pages/list/role-list.tsx": {
+    "mtime": 1780416449.7727242,
+    "hash": "e14a2a2fdd22d32bdeb168d5ff10e44b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/pages/list/components/index.tsx": {
+    "mtime": 1780416449.782724,
+    "hash": "723536e6a35af3ed12a544f7cff1ac24"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/pages/list/components/role-list-table.tsx": {
+    "mtime": 1780416449.8127234,
+    "hash": "ee01ff9de944cb016e0f0b714403fd09"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/pages/list/components/role-list-filters.tsx": {
+    "mtime": 1780416449.792724,
+    "hash": "1ccd458cc654c18173e664b2da4ab308"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/pages/create/role-create.tsx": {
+    "mtime": 1780416449.7527246,
+    "hash": "dade0efa5535df2e2dda61bac35edd39"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/pages/update/role-update.tsx": {
+    "mtime": 1780416449.8327231,
+    "hash": "57d982742e1fc166b6b386d5bb1ce8bb"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/contexts/role-list.context.tsx": {
+    "mtime": 1780416449.4827294,
+    "hash": "26ac8f607fe8fe6538a7e8bace459ad4"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/contexts/index.ts": {
+    "mtime": 1780416449.46273,
+    "hash": "f6706d8aa6a87f2459694aed3a1e1fca"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/components/index.tsx": {
+    "mtime": 1780416449.4127307,
+    "hash": "0050bc43d31dfff7b563a7c22b849746"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/components/role-ability.tsx": {
+    "mtime": 1780416449.4427302,
+    "hash": "fd2e1b6b63fcd6647c497a041191bc59"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/components/role-abilities.tsx": {
+    "mtime": 1780416449.4327304,
+    "hash": "ad21034e620643825acdd0434f736f45"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/components/role-form.tsx": {
+    "mtime": 1780416449.45273,
+    "hash": "30c16fdc17a83fac4406f1ff77ebdae4"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/repositories/index.ts": {
+    "mtime": 1780416449.8627226,
+    "hash": "604c5939b7184363a62055a7c6722021"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/repositories/ability.repository.ts": {
+    "mtime": 1780416449.8527226,
+    "hash": "bc9513d5ae948769bcef2cff70ad19de"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/repositories/role.repository.ts": {
+    "mtime": 1780416449.8727224,
+    "hash": "95dde1821d8e1e60b531a45967962425"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/index.ts": {
+    "mtime": 1780416449.4927294,
+    "hash": "b0a633e8afc4570a2cb982f724ea7db8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/entities/role.entity.ts": {
+    "mtime": 1780416449.622727,
+    "hash": "314fac08a6b0e9b9d38b489cdba485ed"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/entities/ability.entity.ts": {
+    "mtime": 1780416449.5827277,
+    "hash": "d5ec731783c076849e7197bc147c3c42"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/entities/index.ts": {
+    "mtime": 1780416449.5927274,
+    "hash": "ede42a6d55d528e3916430aa74e1717d"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/entities/role-ability.entity.ts": {
+    "mtime": 1780416449.6127272,
+    "hash": "6c4036b937d17617208dbf0e27888bbe"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/enums/ability-reference.enum.ts": {
+    "mtime": 1780435017.929743,
+    "hash": "ba0cc021161ecf18e1253973083e2563"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/enums/index.ts": {
+    "mtime": 1780416449.6427267,
+    "hash": "3de7881ec18413e4f0831b139ecdb06c"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/enums/role-ability-action.enum.ts": {
+    "mtime": 1780416449.6627262,
+    "hash": "2ecab1477f0cb0437b96a357dbc324ab"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/enums/role-reference.enum.ts": {
+    "mtime": 1780416449.672726,
+    "hash": "a80bfca74a8954b18c44480cd50d9bb5"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/schemas/role-update.schema.ts": {
+    "mtime": 1780416449.7227252,
+    "hash": "46d316753cd6e987819c384ae432d567"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/schemas/index.ts": {
+    "mtime": 1780416449.6927257,
+    "hash": "cbbcfb3e81640e5ff5515d2226cf2794"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/schemas/role-ability.schema.ts": {
+    "mtime": 1780416449.7027254,
+    "hash": "8229052f173696cf171d2164364de6ae"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/schemas/role-create.schema.ts": {
+    "mtime": 1780416449.7127252,
+    "hash": "07e30c10b13a0fbb5547e7efa5d4f328"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/dtos/ability-list.dto.ts": {
+    "mtime": 1780416449.512729,
+    "hash": "48f969267633096472014f6153ef3031"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/dtos/role-ability.dto.ts": {
+    "mtime": 1780416449.5327287,
+    "hash": "18fed719961278879250a6a4e5a4f22e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/dtos/index.ts": {
+    "mtime": 1780416449.5227287,
+    "hash": "b171c1108127f435c059701e8c61d019"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/dtos/role-list.dto.ts": {
+    "mtime": 1780416449.5527282,
+    "hash": "9e8f34f8665791ecd34697135a9f3cce"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/dtos/role-create.dto.ts": {
+    "mtime": 1780416449.5427284,
+    "hash": "e9843eddd4d90f448ae9ebd5a8d053e6"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/role/domain/dtos/role-update.dto.ts": {
+    "mtime": 1780416449.562728,
+    "hash": "d1b0a01450c1d70151b9228ba5807a8e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/pages/index.ts": {
+    "mtime": 1780435350.7540288,
+    "hash": "cbdb5798982f4cabec83cf701d768f56"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/pages/list/orders-list.tsx": {
+    "mtime": 1780435321.4450502,
+    "hash": "d4c3b6f7566bea935ed05a3cc3ab9694"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/pages/list/components/orders-list-table.tsx": {
+    "mtime": 1780435316.7497883,
+    "hash": "51f847a85e8fb28cbdb668fdca795226"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/pages/list/components/orders-list-filters.tsx": {
+    "mtime": 1780435305.2591197,
+    "hash": "c96e24db3dcf543c16cff42152fdb4ab"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/pages/details/order-details.tsx": {
+    "mtime": 1780436647.3618438,
+    "hash": "2ee3c46e9b2d0d786bb3d558c4b8b58e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/contexts/index.ts": {
+    "mtime": 1780435291.00277,
+    "hash": "9967abc28a21dac3947945aa00f9ed60"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/contexts/order-list.context.tsx": {
+    "mtime": 1780435288.6427815,
+    "hash": "fa4049dafe31b3e16f4f1586d461d9c2"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/components/index.ts": {
+    "mtime": 1780435337.4044266,
+    "hash": "adc6f2ab7f511da1e78fe863ee3220e0"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/components/ticket-card.tsx": {
+    "mtime": 1780435334.874439,
+    "hash": "f8987d1f027fcc57832906d01c35d603"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/repositories/index.ts": {
+    "mtime": 1780435280.9088876,
+    "hash": "1738f9318c673fd111ade566f338d3ae"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/repositories/order.repository.ts": {
+    "mtime": 1780435278.4088998,
+    "hash": "1b0d38ba645d4944458e230e364e8b8e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/domain/index.ts": {
+    "mtime": 1780435298.8393269,
+    "hash": "9129caba8c7ec88bcd2f0a85e6beabff"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/domain/order-status.ts": {
+    "mtime": 1780435295.7169976,
+    "hash": "42d95f93bc673f4326c5614d57074fe6"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/domain/entities/index.ts": {
+    "mtime": 1780435252.3732195,
+    "hash": "33f1253e921325ab271fea96bfbfe900"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/domain/entities/ticket.entity.ts": {
+    "mtime": 1780435249.6632328,
+    "hash": "58f56c1b01339cf3ae82fbce4e15e352"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/domain/entities/order.entity.ts": {
+    "mtime": 1780435243.874896,
+    "hash": "cfec98ac8493e7f0f53e8cebf7659db7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/domain/schemas/index.ts": {
+    "mtime": 1780435267.0492418,
+    "hash": "e91620a345e6d085c85262d87f3fc26d"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/domain/schemas/checkout.schema.ts": {
+    "mtime": 1780435264.559254,
+    "hash": "c2c51f34991b8042f8e4469003a75aba"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/domain/dtos/order.dto.ts": {
+    "mtime": 1780435257.9434562,
+    "hash": "8fcc5e21725fc33e48eadb3e4a39b92d"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/modules/orders/domain/dtos/index.ts": {
+    "mtime": 1780435260.403444,
+    "hash": "268f6af931253425981edca582c5fb19"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/theme/components.tsx": {
+    "mtime": 1780416447.411848,
+    "hash": "24fa44720b6e785f6fccba1f92c04954"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/theme/index.tsx": {
+    "mtime": 1780416447.4218478,
+    "hash": "4e8bb6759d81edcdbba3ffac9227f2ec"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/theme/theme.tsx": {
+    "mtime": 1780416447.4418476,
+    "hash": "b1cda633739ae0e62dd37c9499a20206"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/theme/palette.tsx": {
+    "mtime": 1780416447.4318476,
+    "hash": "2dc9850c9abc1ed555598da88834b1bd"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/index.tsx": {
+    "mtime": 1780416447.0918539,
+    "hash": "81d12725e47fa3919686bcac01f5acdd"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/router.tsx": {
+    "mtime": 1780416447.1018536,
+    "hash": "57dccad0be78554f65cd48f4cc080e93"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/mappers/index.tsx": {
+    "mtime": 1780416447.2318513,
+    "hash": "e490afcb6da1b70c3adbc9a7085f174b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/mappers/to-router.mapper.tsx": {
+    "mtime": 1780416447.2518508,
+    "hash": "63f1ad8518d19c0524cac1566ebe30f4"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/mappers/to-sidebar.mapper.tsx": {
+    "mtime": 1780416447.2618508,
+    "hash": "5ff2ed00bba459474ad318bc7c589cc8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/mappers/to-breadcrumbs.mapper.tsx": {
+    "mtime": 1780416447.241851,
+    "hash": "b369f916fad5ea45fee04befd766ef49"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/routes/index.tsx": {
+    "mtime": 1780416447.3918483,
+    "hash": "2b198030791c8881bbfe92fa5fc6a20c"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/routes/public-routes.tsx": {
+    "mtime": 1780435612.614006,
+    "hash": "98c9a15137ddeeea24754c3163fab3c2"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/routes/unauthenticated-routes.tsx": {
+    "mtime": 1780416447.3818486,
+    "hash": "6a760a6fada1985e7d733b31cb06c0d1"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/routes/authenticated-routes.tsx": {
+    "mtime": 1780435606.8978689,
+    "hash": "a43a4d76c462fcf7e32f484a5806f509"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/routes/authenticateds/index.tsx": {
+    "mtime": 1780435601.0702438,
+    "hash": "490aadc6b7ec4d685a996243c6ab4aa6"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/routes/authenticateds/user.route.tsx": {
+    "mtime": 1780416447.3618488,
+    "hash": "8adacc818b68d31bd85406742781d0ad"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/routes/authenticateds/order.route.tsx": {
+    "mtime": 1780435585.0263858,
+    "hash": "c820249a03df6faacf914480c15e342d"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/routes/authenticateds/role.route.tsx": {
+    "mtime": 1780416447.351849,
+    "hash": "27e6fd9f572e7898049f4ca6f0d6122f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/routes/authenticateds/event.route.tsx": {
+    "mtime": 1780435579.0329485,
+    "hash": "39866ee417711f374e2d083ecb2dc670"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/routes/authenticateds/check-in.route.tsx": {
+    "mtime": 1780435590.0475738,
+    "hash": "32a091b118b3ebf8a9a774284e009d54"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/hocs/index.tsx": {
+    "mtime": 1780416447.1818523,
+    "hash": "83e3088a85a23ceefa0bfddb887a680b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/hocs/use-require-auth.ts": {
+    "mtime": 1780416447.2118516,
+    "hash": "ff7e734ba4416a010f387f9bc2c9b0e5"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/hocs/required-auth.tsx": {
+    "mtime": 1780416447.2018518,
+    "hash": "bcec035fb412dd1d787a0931fb8106e8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/hocs/required-ability.tsx": {
+    "mtime": 1780416447.191852,
+    "hash": "85109a11b6158b616191d7d4052f4dff"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/hocs/guest-only.tsx": {
+    "mtime": 1780416447.1718524,
+    "hash": "9b0351330b2002e41674b0674d4bc597"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/domain/enums/unauthenticated-path.enum.ts": {
+    "mtime": 1780416447.1418529,
+    "hash": "dd86ac235a4436c9b2569affc893b655"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/domain/enums/public-path.enum.ts": {
+    "mtime": 1780435021.6897244,
+    "hash": "e9b343b37558e4e595318f9cf34ff578"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/domain/enums/authenticated-path.enum.ts": {
+    "mtime": 1780435080.1800501,
+    "hash": "dc47ed9f15100820ccdcfc080491ddc5"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/router/domain/interfaces/route.interface.ts": {
+    "mtime": 1780416447.1518528,
+    "hash": "a33448dfedec6af8374cdfb7db0aeb1d"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/http/client.ts": {
+    "mtime": 1780416447.0118554,
+    "hash": "c54a55064db5b5df58efb36be22a4bd7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/http/index.ts": {
+    "mtime": 1780416447.0518546,
+    "hash": "2fd8014cb4f52b9ae39c3226a60908d0"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/http/helpers.ts": {
+    "mtime": 1780416447.031855,
+    "hash": "3cbdd75f5219bfe9a8b2bdab5fb83c27"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/http/repository.ts": {
+    "mtime": 1780416447.081854,
+    "hash": "b36b4c93a04a5f0869378b81a5657cb4"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/core/http/http.ts": {
+    "mtime": 1780416447.0418549,
+    "hash": "d9384ab7ce11cc2094a912f01784156f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/index.tsx": {
+    "mtime": 1780416451.5926907,
+    "hash": "7adc89ec2332f2114375010af72b8b61"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/unauthenticated/unauthenticated.tsx": {
+    "mtime": 1780416451.742688,
+    "hash": "27b07fc0da7ea1c460a1aa94056b2c35"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/unauthenticated/components/index.tsx": {
+    "mtime": 1780416451.8226867,
+    "hash": "0a5aa709245a0895e3a9dc3be5cee7b4"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/unauthenticated/components/unauthenticated-footer.tsx": {
+    "mtime": 1780416451.802687,
+    "hash": "0eadcbceea2d4d3f4475347b66a710fb"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/unauthenticated/components/unauthenticated-content-header.tsx": {
+    "mtime": 1780416451.7826874,
+    "hash": "c91d5b6edecfc3f04e6e974e7709fd89"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/unauthenticated/components/unauthenticated-background.tsx": {
+    "mtime": 1780416451.752688,
+    "hash": "6614889e0aa5abe6a20b1d21cf1df36f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/unauthenticated/components/unauthenticated-header.tsx": {
+    "mtime": 1780416451.8126867,
+    "hash": "6c6fd1300c189c3d9a7597ac2eec9aee"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/unauthenticated/components/unauthenticated-content-alert.tsx": {
+    "mtime": 1780416451.7726874,
+    "hash": "6a56ee7e3ff5ce78762a01536c3d643a"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/unauthenticated/components/unauthenticated-container.tsx": {
+    "mtime": 1780416451.7626877,
+    "hash": "4d658e3089bc4fd0532e810acd1cce01"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/public/public.tsx": {
+    "mtime": 1780416451.7226884,
+    "hash": "7940025b11c44545f8b016f3e224b4bf"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/authenticated/authenticated.tsx": {
+    "mtime": 1780416451.6126904,
+    "hash": "32c449644fbb9e2983e8bc3bb30f4e31"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/authenticated/components/authenticated-sidebar-item.tsx": {
+    "mtime": 1780416451.692689,
+    "hash": "b85b934b1b93bfab9cf7bc8b130be70f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/authenticated/components/authenticated-container.tsx": {
+    "mtime": 1780416451.6226902,
+    "hash": "50ec673a2be737ffc4a308f711d5236f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/authenticated/components/index.tsx": {
+    "mtime": 1780416451.6726894,
+    "hash": "64d068dc8bccdaa0d2d6936cc52a5c78"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/authenticated/components/authenticated-sidebar.tsx": {
+    "mtime": 1780416451.7026887,
+    "hash": "d0756f858ff872f45389929555b59c9a"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/authenticated/components/authenticated-header.tsx": {
+    "mtime": 1780435639.3623931,
+    "hash": "4feb8fdcdff8a6db731bc36d52dfab87"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/authenticated/components/authenticated-header-profile.tsx": {
+    "mtime": 1780416451.6526897,
+    "hash": "d339ec4b37945b99651729c578daf98a"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/layout/authenticated/components/authenticated-header-breadcrumbs.tsx": {
+    "mtime": 1780416451.63269,
+    "hash": "69ca3d172fc0ff417c2c101cb3271bc7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/avatar-follow.tsx": {
+    "mtime": 1780416450.6727076,
+    "hash": "17b4217946446e1dfd92f47fd41a115d"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/index.tsx": {
+    "mtime": 1780416450.7227068,
+    "hash": "082ae8e846553c0ae60b841d9def28e6"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/logo.tsx": {
+    "mtime": 1780416450.7427063,
+    "hash": "f84604ed6629fce9a94b980949943cd7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/default-error-handler.tsx": {
+    "mtime": 1780416450.712707,
+    "hash": "9c9d5c21a892b180680f7868ac58cce9"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/loading.tsx": {
+    "mtime": 1780416450.7327065,
+    "hash": "b3ce7a1414aecdc18158c5afdeb4d331"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/confirm-dialog.tsx": {
+    "mtime": 1780416450.702707,
+    "hash": "f3f3e10f49b0cb4305faff13cddec89c"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/breadcrumbs.tsx": {
+    "mtime": 1780416450.6827075,
+    "hash": "1305c971ef0be664000498c19e532b97"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/prompt-dialog.tsx": {
+    "mtime": 1780416450.7527063,
+    "hash": "2dfc16d01a53d4626d3ade863f1bfea7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/datatable/index.tsx": {
+    "mtime": 1780416450.8427045,
+    "hash": "8e1bc2283bf52d97c08e27664618ef5a"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/datatable/datatable-translate.tsx": {
+    "mtime": 1780416450.812705,
+    "hash": "5812122904eb4ce1aa520d86e5120755"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/datatable/datatable.tsx": {
+    "mtime": 1780416450.8327048,
+    "hash": "a4576fe217002bc41a79f2f6db45d072"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/page/page-header.tsx": {
+    "mtime": 1780416451.1926982,
+    "hash": "0dadac34d79d6335575cd05ca74c57e2"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/page/page-title.tsx": {
+    "mtime": 1780416451.202698,
+    "hash": "20bbc2499bd4f0aa7a07392a883f387e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/page/index.tsx": {
+    "mtime": 1780416451.1626987,
+    "hash": "1cfd72fbfd64fb2d2e198cbdda373b9a"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/page/page.tsx": {
+    "mtime": 1780416451.2126977,
+    "hash": "2601483b6bb106ea7bfd6ab2eb9d5009"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/page/page-card.tsx": {
+    "mtime": 1780416451.1826982,
+    "hash": "6f03d05542de08c6446d005b701253eb"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/page/page-buttons.tsx": {
+    "mtime": 1780416451.1726985,
+    "hash": "335d886f2c70a9108fd32a50e1814507"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/controlled-image-uploader.tsx": {
+    "mtime": 1780416450.9427028,
+    "hash": "dae159ef7f37961c92376186223a0fb4"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/controlled-select.tsx": {
+    "mtime": 1780416451.0127015,
+    "hash": "2b55dab0c3ca5cbc799188c0e2d51cf1"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/index.tsx": {
+    "mtime": 1780435010.7743573,
+    "hash": "57e3d0c98edbd6358ac67ea70ea8f1ed"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/controlled-color.tsx": {
+    "mtime": 1780416450.8927035,
+    "hash": "5f7c9dc21740bdb27e8f0be33b8cd119"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/controlled-number.tsx": {
+    "mtime": 1780416450.9727023,
+    "hash": "6f7471e1cb218490deb71f680ef07358"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/image-uploader.tsx": {
+    "mtime": 1780416451.1526988,
+    "hash": "32125297ea838fe37da66124a908f179"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/controlled-user.tsx": {
+    "mtime": 1780416451.0527008,
+    "hash": "4739b4c9bad498388326ed91516cc2da"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/controlled-switch.tsx": {
+    "mtime": 1780416451.0227013,
+    "hash": "fbc971fdcb054537b3f1b90e9a497069"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/controlled-role.tsx": {
+    "mtime": 1780416451.0027015,
+    "hash": "843d472b4a36b39a96f43292888c9c38"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/controlled-checkbox.tsx": {
+    "mtime": 1780416450.8827038,
+    "hash": "3f37e1adec4c2ff5d3822c3863995104"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/controlled-debounce.tsx": {
+    "mtime": 1780416450.922703,
+    "hash": "53b4f7e6c7a6e9053ae07492b652be21"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/controlled-enum.tsx": {
+    "mtime": 1780416450.9327028,
+    "hash": "da400c2f7344fc7b9c9f8c74910ab38b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/controlled-autocomplete.tsx": {
+    "mtime": 1780416450.8527043,
+    "hash": "62862df89566f90167ce03c9e31ca65b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/controlled-text.tsx": {
+    "mtime": 1780416451.032701,
+    "hash": "2c5daae689893c60880cf81eabcc83d7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/controlled-date.tsx": {
+    "mtime": 1780416450.9027035,
+    "hash": "c91c96f33beeef4a58e4cf709cd68daa"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/image-uploader/index.tsx": {
+    "mtime": 1780416451.0827003,
+    "hash": "f98ca3e1f1dc0932e1d209f0ecc7a815"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/image-uploader/preview-dialog.tsx": {
+    "mtime": 1780416451.1026998,
+    "hash": "7415e637c283d731fcb8161a67ca318d"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/image-uploader/selection-bar.tsx": {
+    "mtime": 1780416451.1226995,
+    "hash": "3ff782cafa92fbf45d57749f4a4506c2"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/image-uploader/upload-area.tsx": {
+    "mtime": 1780416451.1126995,
+    "hash": "46a6ae7909c699e1a7bf8b5896550fb0"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/fields/image-uploader/image-card.tsx": {
+    "mtime": 1780416451.0727003,
+    "hash": "ba6781acbb2c72f716574766f7e57095"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/buttons/index.tsx": {
+    "mtime": 1780416450.762706,
+    "hash": "597c2d95b94ff7f000ecba8f40d4ffb8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/buttons/link-icon-button.tsx": {
+    "mtime": 1780416450.7927055,
+    "hash": "87963861b126ed9e7aefef7e389f246b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/buttons/link-button.tsx": {
+    "mtime": 1780416450.7727058,
+    "hash": "1d64d6e0af963e4b50ccc83870420f7e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/components/buttons/loading-button.tsx": {
+    "mtime": 1780416450.8027053,
+    "hash": "f0e4d174dc6de0e99da6de11756c3c09"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/utils/currency.ts": {
+    "mtime": 1780416451.8426862,
+    "hash": "982c285c7a5ef06607d01e45ed35ad91"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/utils/phone.ts": {
+    "mtime": 1780416451.962684,
+    "hash": "000dcbfdd924c77bfd8d2456c9786d96"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/utils/error.ts": {
+    "mtime": 1780416451.9026852,
+    "hash": "291b4cf9427b59161843974286b7781e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/utils/index.ts": {
+    "mtime": 1780416451.9426844,
+    "hash": "d8457b3c0f8c67e60ab0cc5c2b065eaf"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/utils/array.ts": {
+    "mtime": 1780416451.8326864,
+    "hash": "e2c081b1cce853683ab76e2830e9b887"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/utils/progress.ts": {
+    "mtime": 1780416451.972684,
+    "hash": "340b9f430148ccdca5062b8f0e076343"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/utils/file.ts": {
+    "mtime": 1780416451.9226847,
+    "hash": "c7e2b99c877d757ca4814fe24c069491"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/utils/date.ts": {
+    "mtime": 1780416451.862686,
+    "hash": "32280c3815eceabc768c8f5ac48dc247"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/utils/string.ts": {
+    "mtime": 1780416451.9926834,
+    "hash": "a0c2e07e08a3dac424998a34d34971b7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/utils/image.ts": {
+    "mtime": 1780416451.9326847,
+    "hash": "42041b2ab3cb55cf20240841ce8b6497"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/utils/document.ts": {
+    "mtime": 1780416451.8826854,
+    "hash": "0d3aeb0f62382f9cb24911486d6d751b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/utils/router.ts": {
+    "mtime": 1780416451.9826837,
+    "hash": "f083ae45b4b3c23d5d0c30f6e6dfd6c7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/utils/template.ts": {
+    "mtime": 1780416452.0126832,
+    "hash": "7571b1f624c95e625e38929317c32e3f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/utils/enum.ts": {
+    "mtime": 1780416451.8926852,
+    "hash": "85e4058bd98b420c39f9258c9251ec37"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/hooks/use-image-upload.ts": {
+    "mtime": 1780416451.5726912,
+    "hash": "67208c145409b278eaba5e9eca4f9a35"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/hooks/index.ts": {
+    "mtime": 1780416451.582691,
+    "hash": "e913fb7b3763ffc85398cd4d47e97e47"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/hooks/use-countdown.ts": {
+    "mtime": 1780416451.5526915,
+    "hash": "07c738e6c0e6409b1b1bd8e1ec516bf7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/index.ts": {
+    "mtime": 1780416451.2326975,
+    "hash": "f616fb61985c7153905d5b2126661e06"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/entities/base-entity.entity.ts": {
+    "mtime": 1780416451.252697,
+    "hash": "74324ac1e75579e8da720c4df815826e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/constants/localStorageKey.constant.ts": {
+    "mtime": 1780436602.8190494,
+    "hash": "a36b42e403aef85bb3f40b2d669c74c8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/enums/image-type.enum.ts": {
+    "mtime": 1780416451.2926962,
+    "hash": "f0aa3720e5234ed0c856eae997c1492b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/enums/index.ts": {
+    "mtime": 1780416451.3026962,
+    "hash": "30b89fc0f08c248276a8dbdfd620982a"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/enums/body-type.enum.ts": {
+    "mtime": 1780416451.2726967,
+    "hash": "2fd16c3a4d4b054b0f940534ed2a7ef0"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/enums/upload-action.enum.ts": {
+    "mtime": 1780416451.3326955,
+    "hash": "8bc482aad98315ebc41a112ce483bd18"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/enums/drivetrain.enum.ts": {
+    "mtime": 1780416451.2826965,
+    "hash": "e12199f7b90ff27f422080ef5017bca1"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/enums/transmission.enum.ts": {
+    "mtime": 1780416451.3226957,
+    "hash": "238706d0907f0852a5711f1e58d544a9"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/enums/status.enum.ts": {
+    "mtime": 1780416451.312696,
+    "hash": "2e8368ac89ab835335b04d83e9597a55"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/schemas/index.ts": {
+    "mtime": 1780416451.4526935,
+    "hash": "2ec2a96d09aab71f024231679d34f41b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/interfaces/index.ts": {
+    "mtime": 1780416451.3826947,
+    "hash": "3514142b3e68cc78f90d6e72de849119"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/interfaces/message.ts": {
+    "mtime": 1780416451.3926945,
+    "hash": "99fd5ddece4699f7697cdfabe45a7bcf"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/interfaces/image-data.ts": {
+    "mtime": 1780416451.3726947,
+    "hash": "3fa90df35474915c8765dda1c534a99e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/interfaces/pagination-params.ts": {
+    "mtime": 1780416451.412694,
+    "hash": "4ba1430350ab0732f3585e51caef8e46"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/interfaces/sidebar-item.interface.ts": {
+    "mtime": 1780416451.4326937,
+    "hash": "040139b589b2059be5faf46e4b603d94"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/interfaces/pagination.ts": {
+    "mtime": 1780416451.422694,
+    "hash": "78b62f021c3df450ed914247d4c15fa8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/interfaces/stepper-step.ts": {
+    "mtime": 1780416451.4426935,
+    "hash": "5466055ec78902604b0d99af2d49aa17"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/interfaces/file.ts": {
+    "mtime": 1780416451.3526952,
+    "hash": "5f5a5fdb083990d4bc32f04ef20901b4"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/interfaces/option.interface.ts": {
+    "mtime": 1780416451.4026942,
+    "hash": "c7fb1b908173cb13d0356dda6e9f375f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/interfaces/http-error.ts": {
+    "mtime": 1780416451.362695,
+    "hash": "a5a716b3884e8f49d00413bb7f5ed627"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/interfaces/breadcrumb.ts": {
+    "mtime": 1780416451.3426955,
+    "hash": "14f69e22a488f00b2af1644536446c68"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/types/id.type.ts": {
+    "mtime": 1780416451.4926927,
+    "hash": "c4237634a0cfafa46e7013a94339d2b2"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/types/toggle-columns.type.ts": {
+    "mtime": 1780416451.5426917,
+    "hash": "bb4db40d57b2f53c0effc2c7097e26dd"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/types/index.ts": {
+    "mtime": 1780416451.5026925,
+    "hash": "840d7783d7d84df21afd8f5c6948ab8e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/types/sort.type.ts": {
+    "mtime": 1780416451.532692,
+    "hash": "03fe19dbe8c6bbae7c57824a8ee339d3"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/types/loading.type.ts": {
+    "mtime": 1780416451.5126922,
+    "hash": "2e3ce93ff053d582e85485f77a4a5837"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/types/entity-with-status.type.ts": {
+    "mtime": 1780416451.4826927,
+    "hash": "3ec1f7807e2dd06b8f681342e5c83541"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/domain/types/props-with-sx.type.ts": {
+    "mtime": 1780416451.522692,
+    "hash": "804b3c5447a2afe1342941ba4c796b51"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/app.module.ts": {
+    "mtime": 1780433528.5774896,
+    "hash": "50c5c6bd982ca36106faffc7164738db"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/main.ts": {
+    "mtime": 1780417112.9358115,
+    "hash": "dedef65d5bad4d5f3d2d820f6b3aedc5"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/user/user.module.ts": {
+    "mtime": 1780417115.451704,
+    "hash": "f1a8be63ecf3c922267a1f294ea8efd1"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/user/application/routes/default-user.route.ts": {
+    "mtime": 1780417115.511703,
+    "hash": "87378285700d57a7cc73989a1a11ae7f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/user/application/decorators/user-controller.decorator.ts": {
+    "mtime": 1780417115.4917033,
+    "hash": "711e26562c73683e7c746fda17c7f773"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/user/application/controllers/user.controller.ts": {
+    "mtime": 1780417115.4717035,
+    "hash": "3b59c97f40bb7ef89d338aac7cf87d5e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/user/domain/services/user.service.ts": {
+    "mtime": 1780417115.6417005,
+    "hash": "165247c867f5a77542f2c018ef09b543"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/user/domain/services/providers/delete-user.provider.ts": {
+    "mtime": 1780417115.6816998,
+    "hash": "94f483bd9700110665cb723fa51178b3"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/user/domain/services/providers/create-user.provider.ts": {
+    "mtime": 1780417115.6617002,
+    "hash": "e0e07b9e6c4aa52857934391aa47d9cc"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/user/domain/services/providers/find-many-user.provider.ts": {
+    "mtime": 1780417115.6916995,
+    "hash": "ed634dc2acf59c9289e5d069a94faf68"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/user/domain/services/providers/find-one-user.provider.ts": {
+    "mtime": 1780417115.7116992,
+    "hash": "82ecdd3bef373522967eec466037b88f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/user/domain/services/providers/update-user.provider.ts": {
+    "mtime": 1780417115.7316988,
+    "hash": "13fc2e7c0896f438eafb97e7f1cfeb6e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/user/domain/repositories/user.repository.ts": {
+    "mtime": 1780417115.621701,
+    "hash": "7bd00b9e61d47f9f6f38740ea7550084"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/user/domain/entities/user.entity.ts": {
+    "mtime": 1780433475.6451082,
+    "hash": "0e0d80a21648f4645e2882956255f339"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/user/domain/enums/user-status.enum.ts": {
+    "mtime": 1780417115.5917015,
+    "hash": "b02164b234a6e78d17277523237dfbb5"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/user/domain/dtos/create-user.dto.ts": {
+    "mtime": 1780436713.1922407,
+    "hash": "f43229c1fc559670b720dd72f24975a4"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/user/domain/dtos/update-user.dto.ts": {
+    "mtime": 1780436713.1922407,
+    "hash": "8e983f4eeea24edc70eabe8a2f0f2fe2"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/user/domain/dtos/find-many-user.dto.ts": {
+    "mtime": 1780417115.5417023,
+    "hash": "9d134a9845bd466026f41827e177e87b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/check-in/check-in.module.ts": {
+    "mtime": 1780434240.9820044,
+    "hash": "9095cef6b97c3b110308b6c6083a4872"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/check-in/application/routes/default-check-in.route.ts": {
+    "mtime": 1780434239.1861413,
+    "hash": "4341799a8ddcae019f321dbe6f3552fe"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/check-in/application/decorators/check-in-controller.decorator.ts": {
+    "mtime": 1780434230.4658103,
+    "hash": "a6733028b183bab35fbadf9a4c7bc4f5"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/check-in/application/controllers/check-in.controller.ts": {
+    "mtime": 1780434230.991347,
+    "hash": "36f0aaabcb94b29e382dd5edbe5ab9d0"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/check-in/domain/payloads/check-in.payload.ts": {
+    "mtime": 1780434208.4430108,
+    "hash": "39b8cd39c5f036714bf1fdc2dc8be889"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/check-in/domain/services/check-in.service.ts": {
+    "mtime": 1780434228.3458207,
+    "hash": "a5f1cc7270545b6fdd691ea0cadd4fb9"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/check-in/domain/services/providers/check-in-ticket.provider.ts": {
+    "mtime": 1780434223.0271094,
+    "hash": "758650a98401120e249e67a3b1741b29"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/check-in/domain/services/providers/inspect-ticket.provider.ts": {
+    "mtime": 1780434216.9416203,
+    "hash": "503739b49586aa3382da4d53e35c4e4e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/check-in/domain/enums/check-in-result.enum.ts": {
+    "mtime": 1780434206.163022,
+    "hash": "7af9308d2a4902f327def43e17d25c2c"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/check-in/domain/dtos/check-in.dto.ts": {
+    "mtime": 1780434204.7817032,
+    "hash": "8a00ad140cd78384abb2b02eec3d4061"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket/ticket.module.ts": {
+    "mtime": 1780434078.4830194,
+    "hash": "3bdf4b88d78e2793817e9f4fd40429ae"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket/domain/services/ticket.service.ts": {
+    "mtime": 1780434076.5930288,
+    "hash": "7c5963e2ff24f57e0cb4a6290c5e0899"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket/domain/services/providers/generate-tickets.provider.ts": {
+    "mtime": 1780434063.3124425,
+    "hash": "75e8f728a8ae58c943bd81751ed46b45"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket/domain/repositories/ticket.repository.ts": {
+    "mtime": 1780433786.6137643,
+    "hash": "afb18341a9eb1b6e1c5f6657d936493b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket/domain/entities/ticket.entity.ts": {
+    "mtime": 1780433772.4595475,
+    "hash": "664a9da6d3715051b05fac85decd2cc7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket/domain/enums/ticket-status.enum.ts": {
+    "mtime": 1780433754.559063,
+    "hash": "d5a9cf06498e5e76746b2f0185d56db2"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket/domain/helpers/ticket-code.helper.ts": {
+    "mtime": 1780434054.444347,
+    "hash": "dd0b0db5538394be25b400cbfd268b2d"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket/domain/helpers/qr-code.helper.ts": {
+    "mtime": 1780434056.492402,
+    "hash": "675faa1cfaaeb8df1d1315d344221b48"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/auth/auth.module.ts": {
+    "mtime": 1780417114.3317246,
+    "hash": "521cd43bf574819bc93d7fcd6bd3e036"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/auth/application/routes/default-auth.route.ts": {
+    "mtime": 1780417114.3917234,
+    "hash": "125e87845f63d733ec80600cef2be0ee"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/auth/application/routes/user-auth.route.ts": {
+    "mtime": 1780417114.4117231,
+    "hash": "3892565b55e5fed41593eff4c35f9c03"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/auth/application/decorators/auth-controller.decorator.ts": {
+    "mtime": 1780417114.371724,
+    "hash": "2b350c191eb93d9260157c835ef0eb90"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/auth/application/controllers/auth.controller.ts": {
+    "mtime": 1780417114.3517241,
+    "hash": "e121ae7fad26347bd65f74d4f9d003c0"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/auth/domain/payloads/auth.payload.ts": {
+    "mtime": 1780417114.5717201,
+    "hash": "0f1d8e179c79d1e531d0fd63ec3e4d67"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/auth/domain/services/auth.service.ts": {
+    "mtime": 1780417114.6017196,
+    "hash": "5107404a2e039928d5c095e40bfde682"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/auth/domain/services/providers/login.provider.ts": {
+    "mtime": 1780417114.6217191,
+    "hash": "908aae23b7968be94b8db1665b4fe326"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/auth/domain/guards/auth.guard.ts": {
+    "mtime": 1780417114.5417206,
+    "hash": "f1b318d9c560286bb0d884ec3668455d"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/auth/domain/guards/ability.guard.ts": {
+    "mtime": 1780417114.5217211,
+    "hash": "24041eed72b7a3e921fdef616d889a69"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/auth/domain/guards/role.guard.ts": {
+    "mtime": 1780417114.5517206,
+    "hash": "41ff93002b5b25e05249312c0b49722f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/auth/domain/dtos/login.dto.ts": {
+    "mtime": 1780417114.471722,
+    "hash": "c2c6b0df7610692c7e9215867d7f6e40"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/auth/domain/decorators/role.decorator.ts": {
+    "mtime": 1780417114.4517224,
+    "hash": "07d722aa737020e228bc978614e666c5"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/auth/domain/decorators/auth-user.decorator.ts": {
+    "mtime": 1780417114.4417226,
+    "hash": "6a92595f837afcfe23364bf3829f70e8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/auth/domain/decorators/ability.decorator.ts": {
+    "mtime": 1780417114.4317226,
+    "hash": "613495384b981ee9794ca0b75b4a6ffe"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/role.module.ts": {
+    "mtime": 1780417114.9417133,
+    "hash": "8aeb86d3baaab9977180ef687a82b973"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/application/routes/ability.route.ts": {
+    "mtime": 1780417115.0217118,
+    "hash": "1c304c32b0256211eae22fc74ff5290b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/application/routes/role.route.ts": {
+    "mtime": 1780417115.0417116,
+    "hash": "5f87463bdde400e5f0a03aef6b417332"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/application/decorators/ability-controller.decorator.ts": {
+    "mtime": 1780417114.9917123,
+    "hash": "b4a5f628251da8bfdbee1dc5cd5934ec"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/application/decorators/role-controller.decorator.ts": {
+    "mtime": 1780417115.0017123,
+    "hash": "b6ce8bbc5a13a48f20b6d16be6f9c974"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/application/controllers/role.controller.ts": {
+    "mtime": 1780417114.9717128,
+    "hash": "39bbec713e2c5b433a0a6acefca3ded8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/application/controllers/ability.controller.ts": {
+    "mtime": 1780417114.961713,
+    "hash": "55b2a4500fb74a2fecf1933daa9245cb"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/services/ability.service.ts": {
+    "mtime": 1780417115.2717073,
+    "hash": "5e89befff7c8a67ac9c58fc718477164"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/services/role.service.ts": {
+    "mtime": 1780417115.281707,
+    "hash": "93bbdde28d7c07940d66800bb84bcccd"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/services/providers/update-role.provider.ts": {
+    "mtime": 1780417115.4417043,
+    "hash": "1799faea707684f2e9aeaf752e1e38de"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/services/providers/delete-ability.provider.ts": {
+    "mtime": 1780417115.341706,
+    "hash": "5f1b76c48ab5dbd870040a48b87f891f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/services/providers/find-one-ability.provider.ts": {
+    "mtime": 1780417115.401705,
+    "hash": "72f647a31eeb4197b0405cf4f10a2764"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/services/providers/find-many-ability.provider.ts": {
+    "mtime": 1780417115.3717055,
+    "hash": "97ee0ec6052abfef7ab42dee38722e22"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/services/providers/update-ability.provider.ts": {
+    "mtime": 1780417115.4217045,
+    "hash": "5bdb6ddc2417b74c713549b95ff5cee9"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/services/providers/find-many-role.provider.ts": {
+    "mtime": 1780417115.3817053,
+    "hash": "c2b184d57c4adbdc4d15aeb59449f64c"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/services/providers/delete-role.provider.ts": {
+    "mtime": 1780417115.3517058,
+    "hash": "fcc597c47dc9dc6d417af18e95c6e0e1"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/services/providers/create-ability.provider.ts": {
+    "mtime": 1780417115.3017068,
+    "hash": "97f48f7179dfe4043c31f9736c34fb18"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/services/providers/create-role.provider.ts": {
+    "mtime": 1780417115.3217063,
+    "hash": "051a9fc4a5cdaef98057c46f7f92eef1"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/services/providers/find-one-role.provider.ts": {
+    "mtime": 1780417115.4117048,
+    "hash": "9b429810979af78d2b0da8ec2feb8001"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/repositories/role-ability.repository.ts": {
+    "mtime": 1780417115.2417078,
+    "hash": "14635a0366fdc48c283c37a4350cb9b6"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/repositories/ability.repository.ts": {
+    "mtime": 1780417115.231708,
+    "hash": "337f06b6b06b532a5f98e8371f45ba0d"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/repositories/role.repository.ts": {
+    "mtime": 1780417115.2517076,
+    "hash": "c6df7258baef3fe6c770f3990c731cde"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/entities/role.entity.ts": {
+    "mtime": 1780417115.181709,
+    "hash": "f1d2b870ae7c628c245e56940ade1897"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/entities/ability.entity.ts": {
+    "mtime": 1780417115.1617093,
+    "hash": "a0e20ddad58ce3890ecf7f33f9a77d41"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/entities/role-ability.entity.ts": {
+    "mtime": 1780417115.171709,
+    "hash": "77c57c08ba6e43986898a4ac727842e5"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/enums/ability-reference.enum.ts": {
+    "mtime": 1780433640.037329,
+    "hash": "2f2284676666ff9d85448c9490c1f4e5"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/enums/role-reference.enum.ts": {
+    "mtime": 1780417115.2117083,
+    "hash": "52c8d11ad32edd9a492730836f5a61c8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/dtos/find-many-role.dto.ts": {
+    "mtime": 1780417115.1117103,
+    "hash": "b73ec2cb84328d06f61cdb891d2ff083"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/dtos/update-role.dto.ts": {
+    "mtime": 1780417115.1417098,
+    "hash": "9c9e8d8aa47152e5169ad6fac84e5b16"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/dtos/find-many-ability.dto.ts": {
+    "mtime": 1780417115.0917106,
+    "hash": "37e62860c5ca2ac2c6c8407df8c9e697"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/dtos/update-ability.dto.ts": {
+    "mtime": 1780417115.12171,
+    "hash": "18e601eb421344b8861b0b9bbbb2b8ae"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/dtos/create-role.dto.ts": {
+    "mtime": 1780417115.0817108,
+    "hash": "1a96c74db1f2385eab1985758ae170d6"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/dtos/update-role-ability.dto.ts": {
+    "mtime": 1780417115.1317098,
+    "hash": "cc9ea69aab0c9e3732e57d55f142f9b6"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/dtos/create-role-ability.dto.ts": {
+    "mtime": 1780417115.071711,
+    "hash": "4c8eb11b08c25d77480af42c4eddb2bf"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/role/domain/dtos/create-ability.dto.ts": {
+    "mtime": 1780417115.061711,
+    "hash": "e2a603a412da675c75ead760d5286271"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/event.module.ts": {
+    "mtime": 1780433950.0391607,
+    "hash": "2819ea93b4c51cd0f808b829187bd55f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/application/routes/public-event.route.ts": {
+    "mtime": 1780433913.6095462,
+    "hash": "a42830f762b768934aed9046b5e8d9ad"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/application/routes/default-event.route.ts": {
+    "mtime": 1780433908.685061,
+    "hash": "c6cfc1aa4834307a3e490cd3b529aa18"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/application/decorators/event-controller.decorator.ts": {
+    "mtime": 1780433896.920468,
+    "hash": "b82878f096268cc2ea02247756203013"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/application/controllers/event.controller.ts": {
+    "mtime": 1780433929.3645003,
+    "hash": "e3f853cd7db3e8f1349ce7ce4a8dadba"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/domain/services/event.service.ts": {
+    "mtime": 1780433888.7205162,
+    "hash": "8fafe6865ac02757647b44f5a23ccc48"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/domain/services/providers/find-public-events.provider.ts": {
+    "mtime": 1780433879.840596,
+    "hash": "7a0503bc1ad05cd91659603ea90441c8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/domain/services/providers/find-many-event.provider.ts": {
+    "mtime": 1780433867.4824812,
+    "hash": "ec5b209da3ec2c8eef6ca2f15e255590"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/domain/services/providers/find-one-event.provider.ts": {
+    "mtime": 1780433862.7478812,
+    "hash": "c16a11077ec76b83c0e9999431db60ef"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/domain/services/providers/find-public-event.provider.ts": {
+    "mtime": 1780433883.1465907,
+    "hash": "d8c5a3ffef4f0219e762fc2e5ae3d67a"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/domain/services/providers/create-event.provider.ts": {
+    "mtime": 1780433818.6858208,
+    "hash": "ae0b7bb226f2cc43c59d13a87e38eab3"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/domain/services/providers/toggle-event-status.provider.ts": {
+    "mtime": 1780433870.386781,
+    "hash": "5e280ef01c5f86f14f68564226c38227"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/domain/services/providers/delete-event.provider.ts": {
+    "mtime": 1780434315.575191,
+    "hash": "eff5f1463ed2ea15b2f2f3aa13e94c9e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/domain/services/providers/update-event.provider.ts": {
+    "mtime": 1780433824.004981,
+    "hash": "e0cbb33d832e95c011b0bedd291f4e58"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/domain/repositories/event.repository.ts": {
+    "mtime": 1780433778.743248,
+    "hash": "88eeb3b5c770cd4ffeccb512adb34dd8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/domain/entities/event.entity.ts": {
+    "mtime": 1780433738.8121912,
+    "hash": "3905523ae3e341f863eb841421db99b2"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/domain/dtos/find-many-event.dto.ts": {
+    "mtime": 1780433806.2533987,
+    "hash": "32125616193bbc978146d54a4d5a09d5"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/domain/dtos/update-event.dto.ts": {
+    "mtime": 1780433803.9202538,
+    "hash": "02848fd7378b4b61c6c951bc4f526930"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/domain/dtos/create-event.dto.ts": {
+    "mtime": 1780433802.5002608,
+    "hash": "14dff5b442a85f5ef331d7b87bfa3c03"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/event/domain/helpers/slug.helper.ts": {
+    "mtime": 1780433854.5932043,
+    "hash": "372485435220d7553fec64e237e9b673"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/order.module.ts": {
+    "mtime": 1780434182.7308795,
+    "hash": "abb9b4d8ed55e92754cdf6a176beed9c"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/application/routes/default-order.route.ts": {
+    "mtime": 1780434180.1197505,
+    "hash": "62cf87da7143698243ad52185c4baf47"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/application/routes/public-order.route.ts": {
+    "mtime": 1780434174.3840873,
+    "hash": "3a5b5c4bc597cc3e4c8a5030cd17166b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/application/decorators/order-controller.decorator.ts": {
+    "mtime": 1780434164.0634413,
+    "hash": "e0a06428fca07e4b81ad4c2774a062cf"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/application/controllers/order.controller.ts": {
+    "mtime": 1780434165.0534365,
+    "hash": "52bcae0449bb85e07d27193d36558a7e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/domain/services/order.service.ts": {
+    "mtime": 1780434161.723453,
+    "hash": "711b1eba60e5095fb13c083cea860d8f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/domain/services/providers/checkout.provider.ts": {
+    "mtime": 1780434115.4893174,
+    "hash": "0f574582adb80aa65c12097f3526f7de"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/domain/services/providers/find-one-order.provider.ts": {
+    "mtime": 1780434129.0288987,
+    "hash": "fec82a4ed692b1d8df731953e90fb0ac"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/domain/services/providers/find-many-order.provider.ts": {
+    "mtime": 1780434136.2879183,
+    "hash": "554e1e61c691580e2f4f7d105f1f868f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/domain/services/providers/validate-cart.provider.ts": {
+    "mtime": 1780434153.601805,
+    "hash": "b97b7e31c91bfcd3185711108bbfc9a2"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/domain/services/providers/find-public-order.provider.ts": {
+    "mtime": 1780434131.8575861,
+    "hash": "d3864fad13bc3e65b915758238cb64b1"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/domain/repositories/order.repository.ts": {
+    "mtime": 1780433783.8939958,
+    "hash": "72c147a464efbacc4072ecc4a6101adf"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/domain/entities/order.entity.ts": {
+    "mtime": 1780433764.661505,
+    "hash": "469448cf4552f70efb91d6f75b539592"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/domain/enums/order-status.enum.ts": {
+    "mtime": 1780433753.12907,
+    "hash": "2ea73ff64a27ea6762c6f5f554c1ee3e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/domain/dtos/find-many-order.dto.ts": {
+    "mtime": 1780434102.1757584,
+    "hash": "be8afc9a05866f4064362b7e1db56997"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/domain/dtos/checkout.dto.ts": {
+    "mtime": 1780434099.678531,
+    "hash": "a0fae5e6f18832793645d9de8bbb2e2e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/domain/dtos/validate-cart.dto.ts": {
+    "mtime": 1780434143.4702635,
+    "hash": "cb1daab0c238db68d266283bd06588f4"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/order/domain/dtos/checkout-item.dto.ts": {
+    "mtime": 1780434094.1462955,
+    "hash": "d08840ee133f2ad94eab0d90c58f4544"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket-type/ticket-type.module.ts": {
+    "mtime": 1780434030.812705,
+    "hash": "d9ae803d2ec606a32aca3b0021fc3be4"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket-type/application/routes/default-ticket-type.route.ts": {
+    "mtime": 1780434028.050069,
+    "hash": "466b341ea97668505de997c8eb8bd230"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket-type/application/decorators/ticket-type-controller.decorator.ts": {
+    "mtime": 1780434012.1998134,
+    "hash": "51d64ffcd892397897d3a00caaf9c164"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket-type/application/controllers/ticket-type.controller.ts": {
+    "mtime": 1780434013.2598083,
+    "hash": "ab7c82f8af2e5d06622a70b0d2af5ce8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket-type/domain/services/ticket-type.service.ts": {
+    "mtime": 1780434052.9906745,
+    "hash": "c9168a9910908588f07248944b4cdb80"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket-type/domain/services/providers/find-many-ticket-type.provider.ts": {
+    "mtime": 1780433998.765013,
+    "hash": "438dab40feab873e68fde085acf4f3b8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket-type/domain/services/providers/toggle-ticket-type-active.provider.ts": {
+    "mtime": 1780434001.6935606,
+    "hash": "19274219a0730fc8c4cd22edf09d9ed7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket-type/domain/services/providers/create-ticket-type.provider.ts": {
+    "mtime": 1780433980.0885644,
+    "hash": "bd65e85848b4387b0db0ba4c7276403a"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket-type/domain/services/providers/update-ticket-type.provider.ts": {
+    "mtime": 1780433984.672796,
+    "hash": "3824432470f108b53f35edfddcc238c9"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket-type/domain/services/providers/delete-ticket-type.provider.ts": {
+    "mtime": 1780434317.6777756,
+    "hash": "3295752f65b8451a4e91ac1941f07167"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket-type/domain/services/providers/find-one-ticket-type.provider.ts": {
+    "mtime": 1780433993.5853407,
+    "hash": "a87f52be2f38dab640a3495bd3d6b5b0"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket-type/domain/repositories/ticket-type.repository.ts": {
+    "mtime": 1780433781.5940073,
+    "hash": "a910c9f1319057a016042ba1e93863a0"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket-type/domain/entities/ticket-type.entity.ts": {
+    "mtime": 1780433751.709077,
+    "hash": "6e00e1fc6c4c870a1b72053e33699f47"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket-type/domain/dtos/find-many-ticket-type.dto.ts": {
+    "mtime": 1780433969.9680462,
+    "hash": "67b35a506e4531fd02be1ba16845cef6"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket-type/domain/dtos/create-ticket-type.dto.ts": {
+    "mtime": 1780433965.7380672,
+    "hash": "9be9c6152356b344889d5626c1972cbb"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/modules/ticket-type/domain/dtos/update-ticket-type.dto.ts": {
+    "mtime": 1780433967.6080577,
+    "hash": "88304fddadbf71b7ae9ecb568f619c68"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/database.module.ts": {
+    "mtime": 1780417113.2558057,
+    "hash": "b824ebff2498f61e3c2bd63d8a1cc886"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/migrations/1733962676133-create-role-and-ability-table.ts": {
+    "mtime": 1780417113.4558022,
+    "hash": "d18b98b35fa20b57223c122d8b6a4353"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/migrations/1733939707701-create-user-table.ts": {
+    "mtime": 1780417113.4358025,
+    "hash": "4d55f730eefb840f9cd15ec27135c0f2"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/migrations/1760000000001-create-events-table.ts": {
+    "mtime": 1780434261.2829454,
+    "hash": "006a9e91c31aefd468301e848d19b418"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/migrations/1760000000003-create-orders-table.ts": {
+    "mtime": 1780434276.9741595,
+    "hash": "4c2c009e1dd5ed8a0e6bb849c46c2dda"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/migrations/1757431678726-add-uuid-to-abstract-table.ts": {
+    "mtime": 1780417113.4758017,
+    "hash": "acfaf91d0c815049898a3c82238be456"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/migrations/1733969260373-add-user-role-relation.ts": {
+    "mtime": 1780417113.465802,
+    "hash": "42670bee22d130970fcd2d35771e2070"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/migrations/1760000000004-create-tickets-table.ts": {
+    "mtime": 1780434286.3702872,
+    "hash": "b90dcee5785b94546d3747c52140f338"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/migrations/1760000000005-add-event-flow-abilities.ts": {
+    "mtime": 1780434519.3747504,
+    "hash": "f1cc70b7a866cf21be2dd8cb3ac799fd"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/migrations/1760000000002-create-ticket-types-table.ts": {
+    "mtime": 1780434267.554066,
+    "hash": "a8a3a8978723acb4d64e6c0356752578"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/seeds/1760000000008-order.seed.ts": {
+    "mtime": 1780438137.5291421,
+    "hash": "08d5a37394e2f41652475b8d5bc572c8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/seeds/1760000000009-ticket.seed.ts": {
+    "mtime": 1780438128.625804,
+    "hash": "a43bceba314f6478eefad52618ecec48"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/seeds/1760000000006-event.seed.ts": {
+    "mtime": 1780438113.0914915,
+    "hash": "78a38c95c076dc670819f2fe4d196220"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/seeds/1734391606183-role.seed.ts": {
+    "mtime": 1780417113.5758,
+    "hash": "b915ed8e3ad2c92943dec1e014a42a0a"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/seeds/1760000000007-ticket-type.seed.ts": {
+    "mtime": 1780438117.4002385,
+    "hash": "e5b16f998f7e468661e104a5910e4e93"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/seeds/1734394989295-user.seed.ts": {
+    "mtime": 1780438137.3991423,
+    "hash": "83f3fba523d6fec75d6fdb3b46d85a1f"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/seeds/init.seed.ts": {
+    "mtime": 1780438135.8957505,
+    "hash": "1b19e87d45380d621371fbf84a048ad6"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/seeds/1734390419270-ability.seed.ts": {
+    "mtime": 1780433642.9473145,
+    "hash": "917fc23a2b811b70cea4ff0dc24928cb"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/domain/classes/connection.class.ts": {
+    "mtime": 1780417113.2758055,
+    "hash": "a444ef5da382f0b819b42b6953f28f30"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/domain/repositories/base.repository.ts": {
+    "mtime": 1780417113.4158027,
+    "hash": "6f6c299ca834cb49f140ad573fa52efc"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/domain/entities/base.entity.ts": {
+    "mtime": 1780417113.3658037,
+    "hash": "68611d8786bc46f5706827b38d047a06"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/domain/enums/connection.enum.ts": {
+    "mtime": 1780417113.3858035,
+    "hash": "5dcbd8fccb1149f7013c869760fe5f06"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/domain/transformers/numeric.transformer.ts": {
+    "mtime": 1780433714.8862324,
+    "hash": "c2a45ccdb5c01d4f28d4903cfc8864f3"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/domain/interfaces/connection.interface.ts": {
+    "mtime": 1780417113.3958032,
+    "hash": "c7755b87c6efa046f30c3e1b814bd875"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/domain/decorators/table-entity.decorator.ts": {
+    "mtime": 1780417113.3458042,
+    "hash": "eedc8ddfa954d4b577f21ecab0ef24f7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/domain/decorators/relation-entity.decorator.ts": {
+    "mtime": 1780417113.3358042,
+    "hash": "259b32152a772bcf89146c710aef6337"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/domain/decorators/column-entity.decorator.ts": {
+    "mtime": 1780417113.3258045,
+    "hash": "18f7509204a34a3dc1f9966323b97b2d"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/domain/connection/database.data-source.ts": {
+    "mtime": 1780417113.305805,
+    "hash": "5c22b3b001c3791755d2d8963e61c151"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/database/domain/connection/database.connection.ts": {
+    "mtime": 1780417113.295805,
+    "hash": "382ad74455e25918edc279bc5f977d32"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/enviroment-variables/enviroment-variables.module.ts": {
+    "mtime": 1780417113.6157992,
+    "hash": "a2b23c3d1a118ed3aa2e8d7e87365e55"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/enviroment-variables/providers/enviroment-variables.provider.ts": {
+    "mtime": 1780417113.6357987,
+    "hash": "c418e800402bc93d787f5f3fc8534d40"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/enviroment-variables/providers/variables/mail-variables.provider.ts": {
+    "mtime": 1780417113.6757982,
+    "hash": "bc427d2cd834045d4431e9be93ebf1f8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/enviroment-variables/providers/variables/minio-variables.provider.ts": {
+    "mtime": 1780435274.95994,
+    "hash": "d98b52d6b59ca80810136bba08d03cf0"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/enviroment-variables/providers/variables/database-variables.provider.ts": {
+    "mtime": 1780417113.6657982,
+    "hash": "a02e21a25f15419292df3794018ffafe"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/enviroment-variables/providers/variables/application-variables.provider.ts": {
+    "mtime": 1780417113.6557984,
+    "hash": "108de075400b850e05275f7ea96980ee"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/base/utils/find-many-reponse-doc.ts": {
+    "mtime": 1780417113.075809,
+    "hash": "40d2dfb48fb637022d81200c27129d9c"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/base/utils/file-validation.ts": {
+    "mtime": 1780417113.0558095,
+    "hash": "773fd5121f14ac8b2e471baa47c91ca2"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/base/utils/save-file.ts": {
+    "mtime": 1780417113.085809,
+    "hash": "a2166938f92909244846c15ea97471b2"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/base/enums/endpoint-method.enum.ts": {
+    "mtime": 1780417113.02581,
+    "hash": "e725f5402aeeeb8fe2398b93f81ae803"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/base/providers/find-many.provider.ts": {
+    "mtime": 1780417113.0458095,
+    "hash": "130475a060400403abcc1d8384268ed7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/base/endpoints/base.endpoint.ts": {
+    "mtime": 1780417113.0058103,
+    "hash": "d6d2f06316f183a842b48b81614d7281"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/base/decorators/endpoint.decorator.ts": {
+    "mtime": 1780417112.975811,
+    "hash": "b92c52d934a7499161e751677e872e28"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/base/decorators/route.decorator.ts": {
+    "mtime": 1780417112.9958105,
+    "hash": "8a619de026e9ba62204e5420012497fa"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/minio/minio.module.ts": {
+    "mtime": 1780417113.8157954,
+    "hash": "442875421496514efd0bbf4668a764cb"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/minio/application/routes/default-minio.route.ts": {
+    "mtime": 1780436713.1922407,
+    "hash": "a2a2d6daceedb6e2f74a7cb9cab67034"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/minio/application/decorators/minio-controller.decorator.ts": {
+    "mtime": 1780417113.8557947,
+    "hash": "06cd4d85e50a4f8ac3f20bebb0eb6dce"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/minio/application/controllers/minio.controller.ts": {
+    "mtime": 1780417113.8357952,
+    "hash": "b289a2a29551d0240edeb2d7027a70fc"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/minio/domain/services/minio.service.ts": {
+    "mtime": 1780417156.4814782,
+    "hash": "07016d7233e0f7fa73dc0880ce8740ed"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/minio/domain/services/providers/upload-image.provider.ts": {
+    "mtime": 1780435274.95994,
+    "hash": "826cd9f501e919001af031fd40b9fb1b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/minio/domain/services/providers/initialize-bucket.provider.ts": {
+    "mtime": 1780435274.95994,
+    "hash": "0252e54d651aadcb98bdbe0e3848c8d8"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/minio/domain/services/providers/find-image.provider.ts": {
+    "mtime": 1780435274.95994,
+    "hash": "570ea34c2fc8cbe33330af76c5fab693"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/minio/domain/services/providers/find-url.provider.ts": {
+    "mtime": 1780435274.95994,
+    "hash": "c8eb09a4312292119bf9a2914dac6fd1"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/minio/domain/services/providers/delete-image.provider.ts": {
+    "mtime": 1780435274.95994,
+    "hash": "d00eaa81753b5bef6a2ca8bbbea2612a"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/minio/domain/enums/EImageType.ts": {
+    "mtime": 1780417156.4714785,
+    "hash": "126db197f8dc92a89cceaea42246985b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/minio/domain/dtos/upload-image.dto.ts": {
+    "mtime": 1780435274.95994,
+    "hash": "6c0e2f70b417b431c05ff1dd256cf462"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/minio/domain/dtos/upload-image-response.dto.ts": {
+    "mtime": 1780435251.5732234,
+    "hash": "8d615cef8d112b74699e7fac4c3e3ced"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/config/validator/class-validator.config.ts": {
+    "mtime": 1780417113.2258062,
+    "hash": "ec466d0ca05890bf427b7a2551f4da67"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/config/validator/validator-pipe.config.ts": {
+    "mtime": 1780417113.2358062,
+    "hash": "0a2085ab5516274b90a28019a39b2ca6"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/config/swagger/swagger.definition.ts": {
+    "mtime": 1780436713.1822407,
+    "hash": "263d2b89c494cf8664c1836271b098a3"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/config/swagger/swagger.config.ts": {
+    "mtime": 1780417113.135808,
+    "hash": "f98f05a71eddf0f89fb336decc632e1b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/config/swagger/swagger.theme.ts": {
+    "mtime": 1780417113.1658075,
+    "hash": "5924740ed6d47e7c3fbe34e78f968ce6"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/config/swagger/domain/constants/swagger.constants.ts": {
+    "mtime": 1780417113.185807,
+    "hash": "496425cc778b0a199054491908a2c6a9"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/config/swagger/domain/interfaces/swagger-ui.interface.ts": {
+    "mtime": 1780417113.2058067,
+    "hash": "214b9d5649d7f8d5da6aad371d0607ca"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/config/security/security.config.ts": {
+    "mtime": 1780417113.1158082,
+    "hash": "abd15c9bf7f3bcb1a51e69178d346cb2"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/config/metrics/metrics.config.ts": {
+    "mtime": 1780417113.1058085,
+    "hash": "92baaf6078003d0c214895d7f188790a"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/metrics/metrics.module.ts": {
+    "mtime": 1780417113.7057974,
+    "hash": "f1d8330ae2708a24feffc58ead0a6708"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/metrics/services/metrics.service.ts": {
+    "mtime": 1780417113.7757962,
+    "hash": "3f24b5f18ec3b205d06a6f02915e20ed"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/metrics/services/reporter.service.ts": {
+    "mtime": 1780417113.795796,
+    "hash": "0c4e3be2f347465a211f0a90cbcebd7e"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/metrics/services/prometheus-init.service.ts": {
+    "mtime": 1780417113.785796,
+    "hash": "865d3fb819fc67407621cb556c4bbc76"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/metrics/controller/metrics-controller.ts": {
+    "mtime": 1780417113.7157974,
+    "hash": "d689f356c0e19d7364dbece35ab94c1b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/metrics/domain/constants/request-count-metric.constant.ts": {
+    "mtime": 1780417113.735797,
+    "hash": "3b6e892c7fadac6b48a7d29e083e6674"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/core/metrics/domain/interceptors/prometheus-interceptor.ts": {
+    "mtime": 1780417113.7557967,
+    "hash": "20de9570075c351acb625debe787e025"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/shared/payloads/find-many.payload.ts": {
+    "mtime": 1780417115.831697,
+    "hash": "7dbdff1eed8a6039ac29f0a070f5bab7"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/shared/payloads/message.payload.ts": {
+    "mtime": 1780417115.8516967,
+    "hash": "e73e9963efc1c0fcaac83ba140549a43"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/shared/enums/status.enum.ts": {
+    "mtime": 1780417115.8216972,
+    "hash": "84a1ed31a0f6094cedf9729052903d2b"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/src/shared/dtos/find-many.dto.ts": {
+    "mtime": 1780417115.8116975,
+    "hash": "81afc12e7040dbfd81a6aed712e9cefa"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/docker-compose.yml": {
+    "mtime": 1780435161.1040044,
+    "hash": "bf8588ba0fb52f8ed8da39deaef9b3b0"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/README.md": {
+    "mtime": 1780436604.2390375,
+    "hash": "f9f530f0862bfb5f22b0f272d70c2dcc"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/index.html": {
+    "mtime": 1780435172.9151971,
+    "hash": "68897fa65f4e87e15436255ae608f08c"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/docker-compose.yml": {
+    "mtime": 1780437892.577734,
+    "hash": "78040409d7ea39ca81421dedba1406b1"
+  },
+  "/home/joao/projects/EventFlow/event-flow-api/README.md": {
+    "mtime": 1780438140.119141,
+    "hash": "1c3e5137d49fa160e5cf44eb69641014"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/assets/default-bg.png": {
+    "mtime": 1780416450.652708,
+    "hash": "39a03a23e6b898a56c2395f71e31a147"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/assets/logo.png": {
+    "mtime": 1780416450.6627078,
+    "hash": "32d550dac6df0758d7a422eea9949c67"
+  },
+  "/home/joao/projects/EventFlow/event-flow-frontend/src/shared/assets/default-bg.jpg": {
+    "mtime": 1780416450.6427083,
+    "hash": "51aea767407384cb3761c5a08e9ca112"
+  }
+}

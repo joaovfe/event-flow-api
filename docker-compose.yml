@@ -1,0 +1,89 @@
+services:
+  app:
+    image: node:22.12.0
+    container_name: event-flow-api
+    user: 'root'
+    restart: always
+    working_dir: /app
+    ports:
+      - '6200:6200'
+    networks:
+      - default_net
+    volumes:
+      - ./:/app
+    depends_on:
+      - db
+      - minio
+    environment:
+      API_AUTH_TOKEN: ${API_AUTH_TOKEN}
+      API_CLIENT_URL: ${API_CLIENT_URL}
+      API_DOC_PASS: ${API_DOC_PASS}
+      API_PORT: ${API_PORT}
+      API_URL: ${API_URL}
+      DATABASE_HOST: ${DATABASE_HOST}
+      DATABASE_NAME: ${DATABASE_NAME}
+      DATABASE_PASS: ${DATABASE_PASS}
+      DATABASE_PORT: ${DATABASE_PORT}
+      DATABASE_USER: ${DATABASE_USER}
+      MINIO_ACCESS_KEY: ${MINIO_ACCESS_KEY}
+      MINIO_BASE_URL: ${MINIO_BASE_URL}
+      MINIO_BUCKET: ${MINIO_BUCKET}
+      MINIO_ENDPOINT: ${MINIO_ENDPOINT}
+      MINIO_PORT: ${MINIO_PORT}
+      MINIO_SECRET_KEY: ${MINIO_SECRET_KEY}
+      MINIO_USE_SSL: ${MINIO_USE_SSL}
+      NODE_ENV: ${NODE_ENV}
+    command: bash -c "npm install; npm i -g @nestjs/cli; npm run migration:run; npm run seed:run; npm run start:debug"
+    healthcheck:
+      test: ["CMD-SHELL", "curl -f http://localhost:${API_PORT}/api/metrics || exit 1"]
+      interval: 30s
+      timeout: 5s
+      retries: 5
+
+  db:
+    container_name: event-flow-database
+    image: postgres
+    restart: always
+    networks:
+      - default_net
+    shm_size: 10g
+    ports:
+      - 5433:5432
+    environment:
+      POSTGRES_PASSWORD: ${DATABASE_PASS}
+      POSTGRES_USER: ${DATABASE_USER}
+      POSTGRES_DB: ${DATABASE_NAME}
+    healthcheck:
+      test: ["CMD-SHELL", "pg_isready -U ${DATABASE_USER} -d ${DATABASE_NAME}"]
+      interval: 30s
+      timeout: 5s
+      retries: 5
+
+  minio:
+    container_name: event-flow-minio
+    image: minio/minio:latest
+    restart: always
+    networks:
+      - default_net
+    ports:
+      - "6300:9000"
+      - "6301:9001"
+    environment:
+      MINIO_ROOT_USER: ${MINIO_ROOT_USER}
+      MINIO_ROOT_PASSWORD: ${MINIO_ROOT_PASSWORD}
+    volumes:
+      - minio_data:/data
+    command: server /data --console-address ":9001"
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:9000/minio/health/live"]
+      interval: 30s
+      timeout: 20s
+      retries: 3
+
+volumes:
+  minio_data:
+  db_data:
+
+networks:
+  default_net:
+    driver: bridge
