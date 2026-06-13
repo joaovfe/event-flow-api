@@ -6,6 +6,7 @@ import { EStatus } from '@shared/enums/status.enum';
 import { EventEntity } from '@modules/event/domain/entities/event.entity';
 import { TicketTypeEntity } from '@modules/ticket-type/domain/entities/ticket-type.entity';
 import { TicketService } from '@modules/ticket/domain/services/ticket.service';
+import { UserEntity } from '@modules/user/domain/entities/user.entity';
 
 import { OrderEntity } from '@modules/order/domain/entities/order.entity';
 import { EOrderStatus } from '@modules/order/domain/enums/order-status.enum';
@@ -18,7 +19,13 @@ export class CheckoutProvider {
     private readonly ticketService: TicketService,
   ) {}
 
-  public async execute({ dto }: { dto: CheckoutDTO }): Promise<OrderEntity> {
+  public async execute({
+    dto,
+    user,
+  }: {
+    dto: CheckoutDTO;
+    user: UserEntity;
+  }): Promise<OrderEntity> {
     return await this.orderRepository.transaction(async (queryRunner) => {
       const lines = await this.resolveLines(dto, queryRunner);
 
@@ -32,6 +39,7 @@ export class CheckoutProvider {
         customerEmail: dto.customerEmail,
         customerDocument: dto.customerDocument,
         total,
+        user,
         // Checkout fake: o pagamento é sempre aprovado.
         status: EOrderStatus.PAID,
       });
