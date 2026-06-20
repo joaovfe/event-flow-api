@@ -18,6 +18,7 @@ export class AbilityRoute {
     roles: [],
     actions: [],
     abilities: [],
+    audit: { resource: 'ABILITY', action: 'READ' },
     responses: [
       {
         description: 'Listagem das habilidades',
@@ -36,6 +37,7 @@ export class AbilityRoute {
     roles: [],
     actions: [],
     abilities: [],
+    audit: { resource: 'ABILITY', action: 'READ' },
     responses: [
       {
         description: 'Dados da habilidade',
@@ -55,6 +57,7 @@ export class AbilityRoute {
     roles: [],
     actions: [],
     abilities: [],
+    audit: { resource: 'ABILITY', action: 'CREATE' },
     responses: [
       {
         description: 'Habilidade criada com sucesso',
@@ -78,6 +81,7 @@ export class AbilityRoute {
     roles: [],
     actions: [],
     abilities: [],
+    audit: { resource: 'ABILITY', action: 'UPDATE' },
     responses: [
       {
         description: 'Habilidade editada com sucesso',
@@ -104,6 +108,7 @@ export class AbilityRoute {
     roles: [],
     actions: [],
     abilities: [],
+    audit: { resource: 'ABILITY', action: 'DELETE' },
     responses: [
       {
         description: 'Habilidade excluída com sucesso',

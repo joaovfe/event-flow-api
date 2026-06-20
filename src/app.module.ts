@@ -1,5 +1,6 @@
 import { ServeStaticModule } from '@nestjs/serve-static';
 import { MulterModule } from '@nestjs/platform-express';
+import { EventEmitterModule } from '@nestjs/event-emitter';
 import { Module } from '@nestjs/common';
 import { join } from 'path';
 
@@ -7,6 +8,7 @@ import { EnvironmentVariablesModule } from '@core/enviroment-variables/enviromen
 import { DatabaseModule } from '@core/database/database.module';
 import { MetricsModule } from '@core/metrics/metrics.module';
 import { MinioModule } from '@core/minio/minio.module';
+import { AuditModule } from '@core/audit/audit.module';
 
 import { AuthModule } from '@modules/auth/auth.module';
 import { UserModule } from '@modules/user/user.module';
@@ -24,10 +26,12 @@ import { CheckInModule } from '@modules/check-in/check-in.module';
       serveRoot: '/api/public',
     }),
     MulterModule.register({}),
+    EventEmitterModule.forRoot(),
     EnvironmentVariablesModule,
     DatabaseModule,
     MetricsModule,
     MinioModule,
+    AuditModule,
     AuthModule,
     UserModule,
     RoleModule,

@@ -18,6 +18,7 @@ export class RoleRoute {
     roles: [],
     actions: [],
     abilities: [],
+    audit: { resource: 'ROLE', action: 'READ' },
     responses: [
       {
         description: 'Listagem dos perfis de usuário',
@@ -36,6 +37,7 @@ export class RoleRoute {
     roles: [],
     actions: [],
     abilities: [],
+    audit: { resource: 'ROLE', action: 'READ' },
     responses: [
       {
         description: 'Dados do perfil do usuário',
@@ -55,6 +57,7 @@ export class RoleRoute {
     roles: [],
     actions: [],
     abilities: [],
+    audit: { resource: 'ROLE', action: 'CREATE' },
     responses: [
       {
         description: 'Perfil de usuário criado com sucesso',
@@ -78,6 +81,7 @@ export class RoleRoute {
     roles: [],
     actions: [],
     abilities: [],
+    audit: { resource: 'ROLE', action: 'UPDATE' },
     responses: [
       {
         description: 'Perfil de usuário editado com sucesso',
@@ -104,6 +108,7 @@ export class RoleRoute {
     roles: [],
     actions: [],
     abilities: [],
+    audit: { resource: 'ROLE', action: 'DELETE' },
     responses: [
       {
         description: 'Perfil de usuário excluído com sucesso',

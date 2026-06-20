@@ -20,6 +20,10 @@ import { Abilities } from '@modules/auth/domain/decorators/ability.decorator';
 import { ERoleReference } from '@modules/role/domain/enums/role-reference.enum';
 import { EAbilityReference } from '@modules/role/domain/enums/ability-reference.enum';
 
+import { Audit } from '@core/audit/domain/decorators/audit.decorator';
+import { EAuditAction } from '@core/audit/domain/enums/audit-action.enum';
+import { EAuditResource } from '@core/audit/domain/enums/audit-resource.enum';
+
 import { SaveFile } from '../utils/save-file';
 import { EndpointMethod } from '../enums/endpoint-method.enum';
 import { FindManyResponse } from '../utils/find-many-reponse-doc';
@@ -42,6 +46,16 @@ interface IEndpointData {
   roles?: Array<keyof typeof ERoleReference>;
   actions?: Array<Action>;
   abilities?: Array<keyof typeof EAbilityReference>;
+  /**
+   * Marca explicitamente a rota como administrativa para fins de auditoria.
+   * Quando omitido, é derivado automaticamente do primeiro item de
+   * `abilities`+`actions` (ambos os enums compartilham as mesmas chaves).
+   */
+  audit?: {
+    resource: keyof typeof EAuditResource;
+    action: keyof typeof EAuditAction;
+    description?: string;
+  };
 }
 
 type Action = 'CREATE' | 'READ' | 'UPDATE' | 'DELETE';
@@ -61,6 +75,7 @@ export class Endpoint {
     roles,
     actions,
     abilities,
+    audit,
   }: IEndpointBaseData) {
     const decorators = [
       this.defineMethod(type, url),
@@ -92,6 +107,24 @@ export class Endpoint {
 
     if (actions && actions.length) {
       decorators.push(this.defineActionsPermitted(actions));
+    }
+
+    if (audit) {
+      decorators.push(
+        this.defineAudit({
+          resource: EAuditResource[audit.resource],
+          action: EAuditAction[audit.action],
+          description: audit.description ?? description,
+        }),
+      );
+    } else if (abilities?.length && actions?.length) {
+      decorators.push(
+        this.defineAudit({
+          resource: EAuditResource[abilities[0]],
+          action: EAuditAction[actions[0]],
+          description,
+        }),
+      );
     }
 
     return applyDecorators(...decorators);
@@ -175,6 +208,14 @@ export class Endpoint {
 
   private static defineActionsPermitted(actions: Array<Action>) {
     return applyDecorators(SetMetadata('actions', actions));
+  }
+
+  private static defineAudit(metadata: {
+    resource: EAuditResource;
+    action: EAuditAction;
+    description: string;
+  }) {
+    return applyDecorators(Audit(metadata));
   }
 
   private static createDescription(

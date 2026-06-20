@@ -6,6 +6,12 @@ O EventFlow é uma plataforma web para gerenciamento e venda de ingressos para e
 
 A plataforma também possui um sistema de gerenciamento baseado em permissões. Usuários com perfil Master ou com as permissões adequadas podem cadastrar, editar, ativar, desativar e gerenciar eventos, além de administrar tipos de ingressos, pedidos, usuários e processos de check-in.
 
+## Auditoria & Design Patterns
+
+Todas as ações administrativas (CRUD de eventos, tipos de ingresso, pedidos, check-in, usuários, perfis e habilidades) são registradas automaticamente em uma trilha de auditoria (`audit_logs`), consultável em `GET /api/audit-logs` (perfil Master).
+
+A solução foi construída com os Design Patterns **Decorator** (um marcador `@Audit` que define o que auditar) e **Observer** (um interceptor que publica o evento e múltiplos listeners independentes que reagem a ele — persistência em banco e log). A documentação completa — definição, problema resolvido, justificativa técnica, vantagens e como estender — está em [`docs/audit-observer-decorator-pattern.md`](docs/audit-observer-decorator-pattern.md).
+
 ## Conflito de portas com Elysium
 
 O EventFlow usa as portas **6100** (PostgreSQL), **6200** (API) e **6300** (MinIO). Se os containers Elysium estiverem ativos nas mesmas portas, pare-os antes de subir a infra:

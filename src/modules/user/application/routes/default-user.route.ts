@@ -20,6 +20,7 @@ export class DefaultUserController {
     roles: [],
     actions: [],
     abilities: [],
+    audit: { resource: 'USER', action: 'READ' },
     responses: [
       {
         description: 'Listagem dos usuários',
@@ -44,6 +45,7 @@ export class DefaultUserController {
     roles: [],
     actions: [],
     abilities: [],
+    audit: { resource: 'USER', action: 'READ' },
     responses: [
       {
         description: 'Dados do usuário',
@@ -69,6 +71,7 @@ export class DefaultUserController {
     roles: [],
     actions: [],
     abilities: [],
+    audit: { resource: 'USER', action: 'CREATE' },
     responses: [
       {
         description: 'Usuário criado com sucesso',
@@ -98,6 +101,7 @@ export class DefaultUserController {
     roles: [],
     actions: [],
     abilities: [],
+    audit: { resource: 'USER', action: 'UPDATE' },
     responses: [
       {
         description: 'Usuário editado com sucesso',
@@ -132,6 +136,7 @@ export class DefaultUserController {
     roles: [],
     actions: [],
     abilities: [],
+    audit: { resource: 'USER', action: 'DELETE' },
     responses: [
       {
         description: 'Usuário deletado com sucesso',
